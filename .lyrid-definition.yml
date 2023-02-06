@@ -1,0 +1,12 @@
+name: dotnet7_asp_web
+description: App Description
+ignoreFiles: .git bin obj
+modules:
+- name: template
+  language: dotnetcore7.x
+  web: web
+  description: Module description
+  functions:
+  - name: Index
+    entry: Index.cshtml
+    description: the entry point for the function
