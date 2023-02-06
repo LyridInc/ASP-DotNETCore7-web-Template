@@ -1,0 +1,1 @@
+ASP.NETCore 7 Web Template
