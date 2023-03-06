@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqH7ymm2U5w3EDsfHOthr8iNKHuNQDiu7S9J5zPjl4CVZOs+QF4iYf8pIsS/SbrLhcJkMYZ1jVc/V4NBqSX8aQ==",
+  "dgSpecHash": "hZW8Sr1iGblEdoPv8+KFMCqmr4cIK10WnbvsZXAo7B3NYGzc2M7HPqDdFMsiONHwky2luM1S0Bl1SbvN0cwp1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj",
+  "projectFilePath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

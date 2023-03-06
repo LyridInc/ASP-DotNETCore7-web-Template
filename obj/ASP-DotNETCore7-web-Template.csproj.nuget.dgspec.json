@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj": {}
+    "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj": {
+    "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj",
+        "projectUniqueName": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj",
         "projectName": "ASP-DotNETCore7-web-Template",
-        "projectPath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj",
+        "projectPath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-web-Template\\ASP-DotNETCore7-web-Template.csproj",
         "packagesPath": "C:\\Users\\rando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-web-Template\\obj\\",
+        "outputPath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-web-Template\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rando\\AppData\\Roaming\\NuGet\\NuGet.Config"
